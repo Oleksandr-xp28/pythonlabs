@@ -1,4 +1,4 @@
-#
+
 try:
     number = int(input('number->'))
     print(int(number/10))
